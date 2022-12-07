@@ -43,6 +43,7 @@
 		17102B0829410E3500CB7B3B = {
 			isa = PBXGroup;
 			children = (
+				17102B2C29411B6B00CB7B3B /* README.md */,
 				17102B1329410E3500CB7B3B /* MyDaysApp */,
 				17102B1229410E3500CB7B3B /* Products */,
 			);
@@ -67,7 +68,6 @@
 				17102B1F29410E3700CB7B3B /* LaunchScreen.storyboard */,
 				17102B2229410E3700CB7B3B /* Info.plist */,
 				17102B2A29411B5900CB7B3B /* ScreeniPhone14.png */,
-				17102B2C29411B6B00CB7B3B /* README.md */,
 			);
 			path = MyDaysApp;
 			sourceTree = "<group>";
